@@ -15,7 +15,7 @@ namespace SearcherLib
 
         }
 
-        public AddWord(Word w)
+        public void AddWord(Word w)
         {
 
         }

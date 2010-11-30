@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SearcherLib
 {
-    class DiskFile
+    public class DiskFile
     {
     }
 }

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SearcherLib
 {
-    class Word
+    public class Word
     {
         Dictionary<DiskFile, List<int>> WordLocationMap = new Dictionary<DiskFile, List<int>>();
         
@@ -25,5 +25,15 @@ namespace SearcherLib
             }
         }
 
+
+        public List<DiskFile> inFiles()
+        {
+            List<DiskFile> dfList= new List<DiskFile>();
+            foreach(DiskFile d in this.WordLocationMap.Keys)
+            {
+                dfList.Add(d);
+            }
+            return dfList;
+        }
     }
 }
