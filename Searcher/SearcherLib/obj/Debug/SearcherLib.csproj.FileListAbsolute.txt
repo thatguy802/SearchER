@@ -1,0 +1,5 @@
+c:\src\searchengine1\Searcher\SearcherLib\obj\Debug\ResolveAssemblyReference.cache
+c:\src\searchengine1\Searcher\SearcherLib\bin\Debug\SearcherLib.dll
+c:\src\searchengine1\Searcher\SearcherLib\bin\Debug\SearcherLib.pdb
+c:\src\searchengine1\Searcher\SearcherLib\obj\Debug\SearcherLib.dll
+c:\src\searchengine1\Searcher\SearcherLib\obj\Debug\SearcherLib.pdb
