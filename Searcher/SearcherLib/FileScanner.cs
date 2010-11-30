@@ -5,7 +5,11 @@ using System.Text;
 
 namespace SearcherLib
 {
-    public class Class1
+    class FileScanner
     {
+        public FileScanner()
+        {
+            
+        }
     }
 }

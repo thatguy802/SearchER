@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searcher", "Searcher\Searcher.csproj", "{DE0F66C7-1CB3-44A3-8C0F-60CF40AD78A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearcherLib", "SearcherLib\SearcherLib.csproj", "{8D08A819-7291-4F36-84F4-7AB911C82755}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{DE0F66C7-1CB3-44A3-8C0F-60CF40AD78A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE0F66C7-1CB3-44A3-8C0F-60CF40AD78A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE0F66C7-1CB3-44A3-8C0F-60CF40AD78A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D08A819-7291-4F36-84F4-7AB911C82755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D08A819-7291-4F36-84F4-7AB911C82755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D08A819-7291-4F36-84F4-7AB911C82755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D08A819-7291-4F36-84F4-7AB911C82755}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
